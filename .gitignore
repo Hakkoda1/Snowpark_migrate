@@ -115,3 +115,5 @@ ENV/
 .vscode/
 .idea/
 
+# Code not relevant
+code_not_relevant.ipynb
