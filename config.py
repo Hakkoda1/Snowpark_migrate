@@ -7,6 +7,10 @@ snowflake_conn_prop = {
  
 }
 
+
+ 
+
+
 # Snowflake Account Identifiers
 # https://docs.snowflake.com/en/user-guide/admin-account-identifier.html#account-identifier-formats-by-cloud-platform-and-region
 #  
