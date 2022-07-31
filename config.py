@@ -1,9 +1,9 @@
 import os
 
 snowflake_conn_prop = {
-   "account": os.environ.get("SNOW_ACC"),
-   "user": os.environ.get("SNOW_USER"),
-   "password": os.environ.get("SNOW_PASS")
+   "account": os.environ.get("SNOWFLAKE_ACCOUNT"),
+   "user": os.environ.get("SNOWFLAKE_USER"),
+   "password": os.environ.get("SNOWFLAKE_PASSWORD")
  
 }
 
